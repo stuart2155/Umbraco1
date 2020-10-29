@@ -10,9 +10,12 @@
 **/App_Data/[Pp]review/
 **/App_Data/TEMP/
 **/App_Data/NuGetBackup/
+
+# Stuart
 **/bin
 **/Config
 **/Umbraco
+App_Data/Umbraco.sdf
 
 # Ignore Umbraco content cache file
 **/App_Data/umbraco.config
@@ -27,3 +30,5 @@
 
 # Ignore the Models Builder models out of date flag
 **/App_Data/Models/ood.flag
+
+App_Data/Umbraco.sdf
